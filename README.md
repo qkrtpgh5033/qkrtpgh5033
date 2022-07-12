@@ -9,7 +9,7 @@
 </div>
 
 ## 💻 ~ing
-- 2022 ICT 한이음 멘토링
+- [2022 ICT 한이음 멘토링](https://www.hanium.or.kr/portal/index.do)
 - 멋쟁이사자처럼 백엔드 스쿨
 
 ## 🏅 Awards
